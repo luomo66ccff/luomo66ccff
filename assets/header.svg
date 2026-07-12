@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Luomo</title>
+  <desc id="desc">An anime visual novel inspired banner about code, cloud servers, and games.</desc>
+
+  <rect width="1200" height="360" fill="#f7fbf9"/>
+  <rect width="1200" height="38" fill="#29343d"/>
+  <rect y="330" width="1200" height="30" fill="#29343d"/>
+  <rect x="0" y="38" width="12" height="292" fill="#f29ab7"/>
+
+  <g stroke="#dce9e4" stroke-width="1">
+    <path d="M12 94H1200M12 150H1200M12 206H1200M12 262H1200"/>
+    <path d="M190 38V330M380 38V330M570 38V330M760 38V330M950 38V330M1140 38V330"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="30" y="25" fill="#f7fbf9" font-size="13" font-weight="600">LUOMO // SAVE SLOT 07</text>
+    <text x="1035" y="25" fill="#f7d774" font-size="13">STATUS: ONLINE</text>
+
+    <text x="72" y="105" fill="#72c7b7" font-size="15" font-weight="700">CIALLO~ WELCOME TO MY ROUTE</text>
+    <text x="68" y="185" fill="#29343d" font-size="82" font-weight="800">LUOMO</text>
+    <text x="73" y="224" fill="#667781" font-size="23">clouds, code &amp; visual novels</text>
+
+    <text x="74" y="282" fill="#29343d" font-size="14" font-weight="600">BUILD</text>
+    <text x="152" y="282" fill="#f29ab7" font-size="14">/</text>
+    <text x="181" y="282" fill="#29343d" font-size="14" font-weight="600">DEPLOY</text>
+    <text x="273" y="282" fill="#72c7b7" font-size="14">/</text>
+    <text x="302" y="282" fill="#29343d" font-size="14" font-weight="600">PLAY</text>
+
+    <text x="800" y="92" fill="#f29ab7" font-size="13" font-weight="700">ROUTE SELECT</text>
+    <text x="800" y="127" fill="#29343d" font-size="17">Today's route:</text>
+    <text x="800" y="164" fill="#29343d" font-size="27" font-weight="700">build something lovely.</text>
+    <text x="800" y="207" fill="#667781" font-size="15">Cloud servers are running.</text>
+    <text x="800" y="232" fill="#667781" font-size="15">Steam library is waiting.</text>
+    <text x="800" y="275" fill="#72c7b7" font-size="15" font-weight="700">CONTINUE  &gt;</text>
+
+    <text x="30" y="350" fill="#b6c4ca" font-size="12">GALGAME</text>
+    <text x="124" y="350" fill="#b6c4ca" font-size="12">STEAM</text>
+    <text x="202" y="350" fill="#b6c4ca" font-size="12">LIVE2D</text>
+    <text x="286" y="350" fill="#b6c4ca" font-size="12">SELF-HOSTED</text>
+    <text x="1063" y="350" fill="#f7d774" font-size="12">AUTO SAVE</text>
+  </g>
+
+  <g fill="none" stroke-linecap="square">
+    <path d="M738 66V298" stroke="#72c7b7" stroke-width="3"/>
+    <rect x="776" y="70" width="372" height="224" rx="6" stroke="#29343d" stroke-width="2"/>
+    <path d="M776 108H1148" stroke="#dce9e4" stroke-width="1"/>
+    <path d="M1108 266L1125 275L1108 284" stroke="#f29ab7" stroke-width="3"/>
+  </g>
+
+  <g fill="#f29ab7">
+    <path d="M532 75C543 57 558 60 557 76C545 82 537 82 532 75Z"/>
+    <path d="M610 254C622 235 638 239 636 256C624 262 616 261 610 254Z"/>
+    <path d="M1156 118C1168 99 1184 103 1182 120C1170 126 1162 125 1156 118Z"/>
+  </g>
+  <g fill="#72c7b7">
+    <path d="M470 294C480 278 494 281 493 296C482 301 475 300 470 294Z"/>
+    <path d="M684 121C694 105 708 108 707 123C696 128 689 127 684 121Z"/>
+  </g>
+  <g fill="#f7d774">
+    <path d="M1045 55L1050 66L1061 71L1050 76L1045 87L1040 76L1029 71L1040 66Z"/>
+    <path d="M705 289L709 298L718 302L709 306L705 315L701 306L692 302L701 298Z"/>
+  </g>
+</svg>
