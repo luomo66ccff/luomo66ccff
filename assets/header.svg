@@ -29,22 +29,18 @@
     <text x="275" y="280" fill="#65d7e7" font-size="14">/</text>
     <text x="304" y="280" fill="#242a38" font-size="14" font-weight="700">PLAY</text>
 
-    <text x="802" y="91" fill="#e44f8b" font-size="13" font-weight="700">CURRENT SIGNALS</text>
-    <text x="836" y="132" fill="#242a38" font-size="16" font-weight="700">BOCCHI THE ROCK!</text>
-    <text x="1090" y="132" fill="#967587" font-size="12">BAND</text>
-    <text x="836" y="174" fill="#242a38" font-size="16" font-weight="700">COSMIC PRINCESS KAGUYA!</text>
-    <text x="1090" y="174" fill="#657184" font-size="12">MOON</text>
-    <text x="836" y="216" fill="#242a38" font-size="16" font-weight="700">HONKAI: STAR RAIL</text>
-    <text x="1090" y="216" fill="#9a7a22" font-size="12">RAIL</text>
-    <text x="836" y="258" fill="#242a38" font-size="16" font-weight="700">GENSHIN IMPACT</text>
-    <text x="1090" y="258" fill="#438f88" font-size="12">WIND</text>
+    <text x="802" y="91" fill="#e44f8b" font-size="13" font-weight="700">CURRENT FREQUENCIES</text>
+    <text x="1109" y="132" fill="#967587" font-size="12">01</text>
+    <text x="1109" y="174" fill="#657184" font-size="12">02</text>
+    <text x="1109" y="216" fill="#9a7a22" font-size="12">03</text>
+    <text x="1109" y="258" fill="#438f88" font-size="12">04</text>
     <text x="802" y="300" fill="#657184" font-size="14">four worlds, one always-online playlist</text>
 
     <text x="30" y="369" fill="#c8d0dc" font-size="12">ANIME</text>
-    <text x="104" y="369" fill="#ff9bc3" font-size="12">BOCCHI</text>
-    <text x="184" y="369" fill="#65d7e7" font-size="12">KAGUYA</text>
-    <text x="270" y="369" fill="#ffd85c" font-size="12">STAR RAIL</text>
-    <text x="380" y="369" fill="#8ed7c8" font-size="12">GENSHIN</text>
+    <text x="104" y="369" fill="#ff9bc3" font-size="12">MUSIC</text>
+    <text x="176" y="369" fill="#65d7e7" font-size="12">MOONLIGHT</text>
+    <text x="286" y="369" fill="#ffd85c" font-size="12">STARLIGHT</text>
+    <text x="392" y="369" fill="#8ed7c8" font-size="12">OPEN WORLDS</text>
     <text x="1077" y="369" fill="#f8fbff" font-size="12">ON AIR</text>
   </g>
 
@@ -57,6 +53,12 @@
 
     <rect x="776" y="68" width="382" height="244" rx="7" stroke="#242a38" stroke-width="2"/>
     <path d="M776 108H1158M816 145H1142M816 187H1142M816 229H1142M816 271H1142" stroke="#e3eaf2"/>
+    <path d="M842 127H878L888 117L899 137L910 124H1038" stroke="#ff78ad" stroke-width="3"/>
+    <circle cx="1052" cy="127" r="5" stroke="#242a38" stroke-width="2"/>
+    <ellipse cx="888" cy="165" rx="44" ry="12" stroke="#65d7e7" stroke-width="3"/>
+    <path d="M928 165H1039" stroke="#65d7e7" stroke-width="3"/>
+    <path d="M842 219C892 190 955 190 1039 210M842 225C902 201 965 202 1039 217" stroke="#d5aa3c" stroke-width="2"/>
+    <path d="M842 249C867 233 905 238 913 255C921 272 897 279 879 268M932 255H1039" stroke="#73cbbd" stroke-width="3"/>
   </g>
 
   <g>

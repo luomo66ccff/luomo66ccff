@@ -23,7 +23,7 @@ I build self-hosted tools somewhere between cloud servers, anime playlists, virt
 class       self-hosted builder
 main party  Python / FastAPI / TypeScript / Next.js
 signal      anime / music / open worlds / space fantasy
-favorites   Bocchi / Kaguya / Star Rail / Genshin
+mood        moonlight / star trails / live music / open fields
 status      building, watching, exploring
 ```
 
@@ -34,17 +34,13 @@ status      building, watching, exploring
 </p>
 
 <p align="center">
-  <img src="./assets/interests/bocchi.svg" width="49%" alt="孤独摇滚！" />
-  <img src="./assets/interests/kaguya.svg" width="49%" alt="超时空辉夜姬！" />
+  <a href="https://bocchi.rocks/tv/"><img src="./assets/frequencies/signal-01.jpg" width="49%" alt="Favorite visual frequency 01" /></a>
+  <a href="https://www.cho-kaguyahime.com/"><img src="./assets/frequencies/signal-02.jpg" width="49%" alt="Favorite visual frequency 02" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/interests/star-rail.svg" width="49%" alt="崩坏：星穹铁道" />
-  <img src="./assets/interests/genshin.svg" width="49%" alt="原神" />
-</p>
-
-<p align="center">
-  <sub>孤独摇滚！ · 超时空辉夜姬！ · 崩坏：星穹铁道 · 原神</sub>
+  <a href="https://hsr.hoyoverse.com/"><img src="./assets/frequencies/signal-03.png" width="49%" alt="Favorite visual frequency 03" /></a>
+  <a href="https://genshin.hoyoverse.com/"><img src="./assets/frequencies/signal-04.jpg" width="49%" alt="Favorite visual frequency 04" /></a>
 </p>
 
 <p align="center">
