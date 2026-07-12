@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168" role="img" aria-labelledby="title desc">
+  <title id="title">LuomoFile Hub</title><desc id="desc">Private-first file sharing and storage routing.</desc>
+  <rect x="1" y="1" width="558" height="166" rx="7" fill="#f7fbf9" stroke="#dce9e4" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="166" rx="5" fill="#8fd8a7"/>
+  <path d="M414 60H458L471 75H526V133H414Z" fill="none" stroke="#72a89e" stroke-width="4"/>
+  <path d="M440 101H500" stroke="#f29ab7" stroke-width="3"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#599b70" font-size="13" font-weight="700">ROUTE 04 / ITEM STORAGE</text>
+    <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO FILE HUB</text>
+    <text x="34" y="108" fill="#667781" font-size="15">Private-first / local / S3-compatible storage</text>
+    <text x="34" y="143" fill="#599b70" font-size="14" font-weight="700">file.luomo.moe  &gt;</text>
+  </g>
+</svg>

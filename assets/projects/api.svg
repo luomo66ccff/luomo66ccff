@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168" role="img" aria-labelledby="title desc">
+  <title id="title">LuomoAPI Hub</title><desc id="desc">API catalog and hardened public gateway.</desc>
+  <rect x="1" y="1" width="558" height="166" rx="7" fill="#f7fbf9" stroke="#dce9e4" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="166" rx="5" fill="#f7d774"/>
+  <g fill="none" stroke="#d3b44a" stroke-width="3"><rect x="420" y="43" width="38" height="38"/><rect x="486" y="43" width="38" height="38"/><rect x="453" y="105" width="38" height="38"/><path d="M458 62H486M439 81L464 105M505 81L480 105"/></g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#c99f24" font-size="13" font-weight="700">ROUTE 03 / DEVELOPER GUILD</text>
+    <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO API HUB</text>
+    <text x="34" y="108" fill="#667781" font-size="15">Catalog / keys / SSRF-hardened gateway</text>
+    <text x="34" y="143" fill="#c99f24" font-size="14" font-weight="700">api.luomo.moe  &gt;</text>
+  </g>
+</svg>

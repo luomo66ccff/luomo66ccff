@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168" role="img" aria-labelledby="title desc">
+  <title id="title">Luomo Home</title><desc id="desc">Personal cloud gateway with Live2D companions.</desc>
+  <rect x="1" y="1" width="558" height="166" rx="7" fill="#f7fbf9" stroke="#dce9e4" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="166" rx="5" fill="#f29ab7"/>
+  <path d="M398 31H526M398 57H493" stroke="#f2c6d5" stroke-width="3"/>
+  <path d="M475 91L484 110L503 119L484 128L475 147L466 128L447 119L466 110Z" fill="#f7d774"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#f29ab7" font-size="13" font-weight="700">ROUTE 01 / HOME SCREEN</text>
+    <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO HOME</text>
+    <text x="34" y="108" fill="#667781" font-size="15">Cloud gateway / Live2D / service constellation</text>
+    <text x="34" y="143" fill="#72a89e" font-size="14" font-weight="700">luomo.moe  &gt;</text>
+  </g>
+</svg>
