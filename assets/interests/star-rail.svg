@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+  <title id="title">Honkai Star Rail</title>
+  <desc id="desc">A navy and gold astral railway anime game interest card.</desc>
+  <rect x="1" y="1" width="558" height="178" rx="7" fill="#f5f7fc" stroke="#d7ddea" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="178" rx="5" fill="#d5aa3c"/>
+  <path d="M392 139C436 94 487 77 548 72" fill="none" stroke="#33415f" stroke-width="4"/>
+  <path d="M392 151C438 109 490 91 548 87" fill="none" stroke="#d5aa3c" stroke-width="2"/>
+  <path d="M480 45L486 59L500 65L486 71L480 85L474 71L460 65L474 59Z" fill="#d5aa3c"/>
+  <circle cx="480" cy="65" r="4" fill="#f5f7fc"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#9a7a22" font-size="13" font-weight="700">GAME 01 / ASTRAL EXPRESS</text>
+    <text x="34" y="80" fill="#26334f" font-size="27" font-weight="800">HONKAI: STAR RAIL</text>
+    <text x="34" y="108" fill="#66728a" font-size="15">companions / distant worlds / trails among stars</text>
+    <text x="34" y="145" fill="#9a7a22" font-size="14" font-weight="700">ALL ABOARD</text>
+  </g>
+</svg>

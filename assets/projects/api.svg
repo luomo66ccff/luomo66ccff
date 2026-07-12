@@ -4,7 +4,7 @@
   <rect x="1" y="1" width="10" height="166" rx="5" fill="#f7d774"/>
   <g fill="none" stroke="#d3b44a" stroke-width="3"><rect x="420" y="43" width="38" height="38"/><rect x="486" y="43" width="38" height="38"/><rect x="453" y="105" width="38" height="38"/><path d="M458 62H486M439 81L464 105M505 81L480 105"/></g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="34" y="38" fill="#c99f24" font-size="13" font-weight="700">ROUTE 03 / DEVELOPER GUILD</text>
+    <text x="34" y="38" fill="#c99f24" font-size="13" font-weight="700">BUILD 03 / API DOCK</text>
     <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO API HUB</text>
     <text x="34" y="108" fill="#667781" font-size="15">Catalog / keys / SSRF-hardened gateway</text>
     <text x="34" y="143" fill="#c99f24" font-size="14" font-weight="700">api.luomo.moe  &gt;</text>

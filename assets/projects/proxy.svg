@@ -5,7 +5,7 @@
   <path d="M422 79H505M481 55L505 79L481 103" fill="none" stroke="#ff9c78" stroke-width="5"/>
   <path d="M422 123H505" stroke="#f7d774" stroke-width="4"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="34" y="38" fill="#d56f4b" font-size="13" font-weight="700">ROUTE 06 / FAST TRAVEL</text>
+    <text x="34" y="38" fill="#d56f4b" font-size="13" font-weight="700">BUILD 06 / TRANSFER LINE</text>
     <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">FILE PROXY</text>
     <text x="34" y="108" fill="#667781" font-size="15">Streaming / Range / whitelist / SSRF defense</text>
     <text x="34" y="143" fill="#d56f4b" font-size="14" font-weight="700">proxy.march7th.cn  &gt;</text>

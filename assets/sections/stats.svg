@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title">
-  <title id="title">Chapter two, player data</title>
+  <title id="title">Track three, development signals</title>
   <rect width="1200" height="92" fill="#f7fbf9"/>
   <rect x="0" y="0" width="12" height="92" fill="#72c7b7"/>
   <path d="M46 70H1154" stroke="#dce9e4" stroke-width="2"/>
   <path d="M1054 25H1070V41H1054Z" fill="none" stroke="#72c7b7" stroke-width="3"/>
   <path d="M1100 18L1105 29L1116 34L1105 39L1100 50L1095 39L1084 34L1095 29Z" fill="#f7d774"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="46" y="35" fill="#72c7b7" font-size="14" font-weight="700">CHAPTER 02</text>
-    <text x="46" y="61" fill="#29343d" font-size="26" font-weight="700">PLAYER DATA</text>
+    <text x="46" y="35" fill="#72c7b7" font-size="14" font-weight="700">TRACK 03</text>
+    <text x="46" y="61" fill="#29343d" font-size="26" font-weight="700">DEV SIGNALS</text>
     <text x="887" y="59" fill="#667781" font-size="14">AUTO UPDATED DAILY</text>
   </g>
 </svg>

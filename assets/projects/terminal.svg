@@ -5,7 +5,7 @@
   <rect x="401" y="40" width="128" height="96" rx="6" fill="#29343d"/>
   <path d="M420 72L437 85L420 98M451 100H493" fill="none" stroke="#72c7b7" stroke-width="4"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="34" y="38" fill="#6b85b0" font-size="13" font-weight="700">ROUTE 05 / REMOTE CONSOLE</text>
+    <text x="34" y="38" fill="#6b85b0" font-size="13" font-weight="700">BUILD 05 / REMOTE CONSOLE</text>
     <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO TERMINAL</text>
     <text x="34" y="108" fill="#667781" font-size="15">SSH / SFTP / FTPS / project operations</text>
     <text x="34" y="143" fill="#6b85b0" font-size="14" font-weight="700">terminal.luomo.moe  &gt;</text>

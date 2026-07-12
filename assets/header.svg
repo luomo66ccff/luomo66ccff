@@ -1,63 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Luomo</title>
-  <desc id="desc">An anime visual novel inspired banner about code, cloud servers, and games.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Luomo anime signal</title>
+  <desc id="desc">A bright anime-inspired banner combining music, moonlight, star trails, open worlds, and code.</desc>
 
-  <rect width="1200" height="360" fill="#f7fbf9"/>
-  <rect width="1200" height="38" fill="#29343d"/>
-  <rect y="330" width="1200" height="30" fill="#29343d"/>
-  <rect x="0" y="38" width="12" height="292" fill="#f29ab7"/>
+  <rect width="1200" height="380" fill="#f8fbff"/>
+  <rect width="1200" height="38" fill="#242a38"/>
+  <rect y="348" width="1200" height="32" fill="#242a38"/>
+  <rect x="0" y="38" width="12" height="310" fill="#ff78ad"/>
+  <rect x="12" y="38" width="4" height="310" fill="#ffd85c"/>
 
-  <g stroke="#dce9e4" stroke-width="1">
-    <path d="M12 94H1200M12 150H1200M12 206H1200M12 262H1200"/>
-    <path d="M190 38V330M380 38V330M570 38V330M760 38V330M950 38V330M1140 38V330"/>
+  <g stroke="#e3eaf2" stroke-width="1">
+    <path d="M16 94H1200M16 150H1200M16 206H1200M16 262H1200M16 318H1200"/>
+    <path d="M196 38V348M386 38V348M576 38V348M766 38V348M956 38V348M1146 38V348"/>
   </g>
+
+  <rect x="776" y="68" width="382" height="244" rx="7" fill="#ffffff"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="30" y="25" fill="#f7fbf9" font-size="13" font-weight="600">LUOMO // SAVE SLOT 07</text>
-    <text x="1035" y="25" fill="#f7d774" font-size="13">STATUS: ONLINE</text>
+    <text x="30" y="25" fill="#f8fbff" font-size="13" font-weight="700">LUOMO // ANIME SIGNAL 07</text>
+    <text x="1061" y="25" fill="#65d7e7" font-size="13">SYNC: ONLINE</text>
 
-    <text x="72" y="105" fill="#72c7b7" font-size="15" font-weight="700">CIALLO~ WELCOME TO MY ROUTE</text>
-    <text x="68" y="185" fill="#29343d" font-size="82" font-weight="800">LUOMO</text>
-    <text x="73" y="224" fill="#667781" font-size="23">clouds, code &amp; visual novels</text>
+    <text x="72" y="104" fill="#e44f8b" font-size="15" font-weight="700">WELCOME TO MY LITTLE UNIVERSE</text>
+    <text x="68" y="184" fill="#242a38" font-size="82" font-weight="800">LUOMO</text>
+    <text x="73" y="223" fill="#657184" font-size="23">anime, code &amp; starlit worlds</text>
 
-    <text x="74" y="282" fill="#29343d" font-size="14" font-weight="600">BUILD</text>
-    <text x="152" y="282" fill="#f29ab7" font-size="14">/</text>
-    <text x="181" y="282" fill="#29343d" font-size="14" font-weight="600">DEPLOY</text>
-    <text x="273" y="282" fill="#72c7b7" font-size="14">/</text>
-    <text x="302" y="282" fill="#29343d" font-size="14" font-weight="600">PLAY</text>
+    <text x="74" y="280" fill="#242a38" font-size="14" font-weight="700">BUILD</text>
+    <text x="152" y="280" fill="#ff78ad" font-size="14">/</text>
+    <text x="181" y="280" fill="#242a38" font-size="14" font-weight="700">WATCH</text>
+    <text x="275" y="280" fill="#65d7e7" font-size="14">/</text>
+    <text x="304" y="280" fill="#242a38" font-size="14" font-weight="700">PLAY</text>
 
-    <text x="800" y="92" fill="#f29ab7" font-size="13" font-weight="700">ROUTE SELECT</text>
-    <text x="800" y="127" fill="#29343d" font-size="17">Today's route:</text>
-    <text x="800" y="164" fill="#29343d" font-size="27" font-weight="700">build something lovely.</text>
-    <text x="800" y="207" fill="#667781" font-size="15">Cloud servers are running.</text>
-    <text x="800" y="232" fill="#667781" font-size="15">Steam library is waiting.</text>
-    <text x="800" y="275" fill="#72c7b7" font-size="15" font-weight="700">CONTINUE  &gt;</text>
+    <text x="802" y="91" fill="#e44f8b" font-size="13" font-weight="700">CURRENT SIGNALS</text>
+    <text x="836" y="132" fill="#242a38" font-size="16" font-weight="700">BOCCHI THE ROCK!</text>
+    <text x="1090" y="132" fill="#967587" font-size="12">BAND</text>
+    <text x="836" y="174" fill="#242a38" font-size="16" font-weight="700">COSMIC PRINCESS KAGUYA!</text>
+    <text x="1090" y="174" fill="#657184" font-size="12">MOON</text>
+    <text x="836" y="216" fill="#242a38" font-size="16" font-weight="700">HONKAI: STAR RAIL</text>
+    <text x="1090" y="216" fill="#9a7a22" font-size="12">RAIL</text>
+    <text x="836" y="258" fill="#242a38" font-size="16" font-weight="700">GENSHIN IMPACT</text>
+    <text x="1090" y="258" fill="#438f88" font-size="12">WIND</text>
+    <text x="802" y="300" fill="#657184" font-size="14">four worlds, one always-online playlist</text>
 
-    <text x="30" y="350" fill="#b6c4ca" font-size="12">GALGAME</text>
-    <text x="124" y="350" fill="#b6c4ca" font-size="12">STEAM</text>
-    <text x="202" y="350" fill="#b6c4ca" font-size="12">LIVE2D</text>
-    <text x="286" y="350" fill="#b6c4ca" font-size="12">SELF-HOSTED</text>
-    <text x="1063" y="350" fill="#f7d774" font-size="12">AUTO SAVE</text>
+    <text x="30" y="369" fill="#c8d0dc" font-size="12">ANIME</text>
+    <text x="104" y="369" fill="#ff9bc3" font-size="12">BOCCHI</text>
+    <text x="184" y="369" fill="#65d7e7" font-size="12">KAGUYA</text>
+    <text x="270" y="369" fill="#ffd85c" font-size="12">STAR RAIL</text>
+    <text x="380" y="369" fill="#8ed7c8" font-size="12">GENSHIN</text>
+    <text x="1077" y="369" fill="#f8fbff" font-size="12">ON AIR</text>
   </g>
 
-  <g fill="none" stroke-linecap="square">
-    <path d="M738 66V298" stroke="#72c7b7" stroke-width="3"/>
-    <rect x="776" y="70" width="372" height="224" rx="6" stroke="#29343d" stroke-width="2"/>
-    <path d="M776 108H1148" stroke="#dce9e4" stroke-width="1"/>
-    <path d="M1108 266L1125 275L1108 284" stroke="#f29ab7" stroke-width="3"/>
+  <g fill="none">
+    <path d="M72 310H188L205 293L224 326L244 301L261 310H359" stroke="#ff78ad" stroke-width="4"/>
+    <path d="M72 321H359" stroke="#ffd85c" stroke-width="2"/>
+    <circle cx="395" cy="310" r="17" stroke="#242a38" stroke-width="3"/>
+    <path d="M411 304L478 280" stroke="#242a38" stroke-width="6"/>
+    <path d="M474 273L489 289M468 280L483 296" stroke="#65d7e7" stroke-width="3"/>
+
+    <rect x="776" y="68" width="382" height="244" rx="7" stroke="#242a38" stroke-width="2"/>
+    <path d="M776 108H1158M816 145H1142M816 187H1142M816 229H1142M816 271H1142" stroke="#e3eaf2"/>
   </g>
 
-  <g fill="#f29ab7">
-    <path d="M532 75C543 57 558 60 557 76C545 82 537 82 532 75Z"/>
-    <path d="M610 254C622 235 638 239 636 256C624 262 616 261 610 254Z"/>
-    <path d="M1156 118C1168 99 1184 103 1182 120C1170 126 1162 125 1156 118Z"/>
-  </g>
-  <g fill="#72c7b7">
-    <path d="M470 294C480 278 494 281 493 296C482 301 475 300 470 294Z"/>
-    <path d="M684 121C694 105 708 108 707 123C696 128 689 127 684 121Z"/>
-  </g>
-  <g fill="#f7d774">
-    <path d="M1045 55L1050 66L1061 71L1050 76L1045 87L1040 76L1029 71L1040 66Z"/>
-    <path d="M705 289L709 298L718 302L709 306L705 315L701 306L692 302L701 298Z"/>
+  <g>
+    <path d="M798 120C810 107 824 114 820 128C810 134 802 131 798 120Z" fill="#ff78ad"/>
+    <circle cx="809" cy="164" r="10" fill="#65d7e7"/>
+    <circle cx="814" cy="160" r="10" fill="#ffffff"/>
+    <path d="M809 198L813 207L822 211L813 215L809 224L805 215L796 211L805 207Z" fill="#ffd85c"/>
+    <path d="M799 256C805 244 818 244 824 253C815 250 808 255 806 264C803 263 801 260 799 256Z" fill="#73cbbd"/>
+
+    <circle cx="698" cy="92" r="30" fill="#65d7e7" opacity="0.34"/>
+    <circle cx="711" cy="83" r="30" fill="#f8fbff"/>
+    <path d="M649 93C682 62 730 65 752 96" fill="none" stroke="#ff78ad" stroke-width="3"/>
+    <circle cx="751" cy="96" r="5" fill="#ffd85c"/>
+    <path d="M564 75L569 86L580 91L569 96L564 107L559 96L548 91L559 86Z" fill="#ffd85c"/>
+    <path d="M702 289L706 298L715 302L706 306L702 315L698 306L689 302L698 298Z" fill="#8f7cff"/>
   </g>
 </svg>

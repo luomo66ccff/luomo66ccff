@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+  <title id="title">Bocchi the Rock</title>
+  <desc id="desc">A pink guitar and colorful sound wave inspired anime interest card.</desc>
+  <rect x="1" y="1" width="558" height="178" rx="7" fill="#fff8fb" stroke="#f1cada" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="178" rx="5" fill="#ff78ad"/>
+  <rect x="410" y="24" width="30" height="8" fill="#ffd85c"/>
+  <rect x="446" y="24" width="30" height="8" fill="#65d7e7"/>
+  <rect x="482" y="24" width="30" height="8" fill="#242a38"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#e44f8b" font-size="13" font-weight="700">ANIME 01 / BAND MODE</text>
+    <text x="34" y="80" fill="#242a38" font-size="27" font-weight="800">BOCCHI THE ROCK!</text>
+    <text x="34" y="108" fill="#756b76" font-size="15">guitar noise / band energy / STARRY nights</text>
+    <text x="34" y="145" fill="#e44f8b" font-size="14" font-weight="700">AMPLIFIER: ON</text>
+  </g>
+  <g fill="none">
+    <circle cx="464" cy="118" r="26" fill="#ff78ad" stroke="#242a38" stroke-width="3"/>
+    <circle cx="464" cy="118" r="7" fill="#fff8fb" stroke="#242a38" stroke-width="3"/>
+    <path d="M484 102L533 66" stroke="#242a38" stroke-width="7"/>
+    <path d="M526 59L540 74M521 66L535 81" stroke="#ffd85c" stroke-width="3"/>
+    <path d="M387 149H409L420 133L433 159L445 141" stroke="#65d7e7" stroke-width="3"/>
+  </g>
+</svg>

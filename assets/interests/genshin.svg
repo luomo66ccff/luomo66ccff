@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+  <title id="title">Genshin Impact</title>
+  <desc id="desc">A teal and gold open-world anime game interest card with wind and constellation motifs.</desc>
+  <rect x="1" y="1" width="558" height="178" rx="7" fill="#f4fbfa" stroke="#cfe9e3" stroke-width="2"/>
+  <rect x="1" y="1" width="10" height="178" rx="5" fill="#73cbbd"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M405 74C429 49 470 54 478 77C485 98 458 108 439 97" stroke="#73cbbd" stroke-width="5"/>
+    <path d="M418 118C447 100 496 106 526 132" stroke="#7bb7db" stroke-width="4"/>
+    <path d="M435 140C458 129 491 134 510 151" stroke="#d5aa3c" stroke-width="2"/>
+  </g>
+  <path d="M500 47L505 58L516 63L505 68L500 79L495 68L484 63L495 58Z" fill="#d5aa3c"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="34" y="38" fill="#438f88" font-size="13" font-weight="700">GAME 02 / OPEN WORLD</text>
+    <text x="34" y="80" fill="#263a47" font-size="27" font-weight="800">GENSHIN IMPACT</text>
+    <text x="34" y="108" fill="#657b83" font-size="15">Teyvat / wind paths / elemental journeys</text>
+    <text x="34" y="145" fill="#438f88" font-size="14" font-weight="700">AD ASTRA ABYSSOSQUE</text>
+  </g>
+</svg>

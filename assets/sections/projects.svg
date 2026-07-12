@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title">
-  <title id="title">Chapter one, project routes</title>
+  <title id="title">Track two, featured builds</title>
   <rect width="1200" height="92" fill="#f7fbf9"/>
   <rect x="0" y="0" width="12" height="92" fill="#f29ab7"/>
   <path d="M46 70H1154" stroke="#dce9e4" stroke-width="2"/>
   <path d="M1030 22L1035 33L1046 38L1035 43L1030 54L1025 43L1014 38L1025 33Z" fill="#f7d774"/>
   <path d="M1080 34C1092 15 1108 19 1106 36C1094 42 1086 41 1080 34Z" fill="#f29ab7"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="46" y="35" fill="#f29ab7" font-size="14" font-weight="700">CHAPTER 01</text>
-    <text x="46" y="61" fill="#29343d" font-size="26" font-weight="700">PROJECT ROUTES</text>
-    <text x="850" y="59" fill="#667781" font-size="14">SELECT A STORY TO CONTINUE</text>
+    <text x="46" y="35" fill="#f29ab7" font-size="14" font-weight="700">TRACK 02</text>
+    <text x="46" y="61" fill="#29343d" font-size="26" font-weight="700">FEATURED BUILDS</text>
+    <text x="850" y="59" fill="#667781" font-size="14">TOOLS I KEEP POLISHING</text>
   </g>
 </svg>

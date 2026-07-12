@@ -5,7 +5,7 @@
   <path d="M398 125L425 106L452 115L480 75L508 89L532 47" fill="none" stroke="#72c7b7" stroke-width="4"/>
   <path d="M398 138H532" stroke="#dce9e4" stroke-width="2"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0">
-    <text x="34" y="38" fill="#72a89e" font-size="13" font-weight="700">ROUTE 02 / CONTROL ROOM</text>
+    <text x="34" y="38" fill="#72a89e" font-size="13" font-weight="700">BUILD 02 / CONTROL ROOM</text>
     <text x="34" y="80" fill="#29343d" font-size="29" font-weight="750">LUOMO CORE</text>
     <text x="34" y="108" fill="#667781" font-size="15">Status / incidents / reports / integrations</text>
     <text x="34" y="143" fill="#72a89e" font-size="14" font-weight="700">ops.luomo.moe  &gt;</text>

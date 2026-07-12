@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Luomo - clouds, code, games, and visual novels" />
+  <img src="./assets/header.svg" width="100%" alt="Luomo - anime, code, music, and starlit worlds" />
 </p>
 
 <p align="center">
@@ -13,23 +13,42 @@
 
 ### PLAYER 01 // LUOMO
 
-> **Ciallo~ Welcome to my route.**
+> **Ciallo~ Welcome to my little universe.**
 
-I build self-hosted tools somewhere between cloud servers, galgames, Live2D companions, and a Steam library that keeps growing.
+I build self-hosted tools somewhere between cloud servers, anime playlists, virtual companions, and a Steam library that keeps growing.
 
-写一点代码，养几台服务器，也认真打游戏。喜欢把脑海里的小东西做出来，再慢慢把它们打磨成真正会长期使用的产品。
+写一点代码，养几台服务器，也认真追番和打游戏。喜欢音乐、星空与充满生命力的二次元世界，也喜欢把脑海里的小东西慢慢打磨成真正会长期使用的产品。
 
 ```text
 class       self-hosted builder
 main party  Python / FastAPI / TypeScript / Next.js
-interests   galgame / anime / Steam / Live2D
-status      building, deploying, polishing
+signal      anime / music / open worlds / space fantasy
+favorites   Bocchi / Kaguya / Star Rail / Genshin
+status      building, watching, exploring
 ```
 
 <br clear="right" />
 
 <p align="center">
-  <img src="./assets/sections/projects.svg" width="100%" alt="Chapter one: project routes" />
+  <img src="./assets/sections/interests.svg" width="100%" alt="Track one: anime signals" />
+</p>
+
+<p align="center">
+  <img src="./assets/interests/bocchi.svg" width="49%" alt="孤独摇滚！" />
+  <img src="./assets/interests/kaguya.svg" width="49%" alt="超时空辉夜姬！" />
+</p>
+
+<p align="center">
+  <img src="./assets/interests/star-rail.svg" width="49%" alt="崩坏：星穹铁道" />
+  <img src="./assets/interests/genshin.svg" width="49%" alt="原神" />
+</p>
+
+<p align="center">
+  <sub>孤独摇滚！ · 超时空辉夜姬！ · 崩坏：星穹铁道 · 原神</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/sections/projects.svg" width="100%" alt="Track two: featured builds" />
 </p>
 
 <p align="center">
@@ -48,7 +67,7 @@ status      building, deploying, polishing
 </p>
 
 <details>
-  <summary><strong>Open bonus routes</strong></summary>
+  <summary><strong>More things in the workshop</strong></summary>
   <br />
 
   - [steam-automation-hub](https://github.com/luomo66ccff/steam-automation-hub): read-only ArchiSteamFarm telemetry and automation health.
@@ -58,22 +77,22 @@ status      building, deploying, polishing
 </details>
 
 <p align="center">
-  <img src="./assets/sections/stats.svg" width="100%" alt="Chapter two: player data" />
+  <img src="./assets/sections/stats.svg" width="100%" alt="Track three: development signals" />
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Luomo GitHub save data" />
+  <img src="./profile/stats.svg" width="49%" alt="Luomo GitHub statistics" />
   <img src="./profile/top-langs.svg" width="49%" alt="Luomo skill inventory" />
 </p>
 
 <p align="center">
-  <img src="./assets/sections/activity.svg" width="100%" alt="Chapter three: daily quests" />
+  <img src="./assets/sections/activity.svg" width="100%" alt="Track four: contribution loop" />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/contribution-snake.svg" />
-  <img src="./assets/contribution-snake.svg" width="100%" alt="Luomo contribution route animation" />
+  <img src="./assets/contribution-snake.svg" width="100%" alt="Luomo contribution animation" />
 </picture>
 
 ### INVENTORY // TOOLKIT
@@ -90,7 +109,7 @@ status      building, deploying, polishing
 </p>
 
 <p align="center">
-  <sub>Today's route: build something lovely, then keep it running.</sub>
+  <sub>Today's signal: watch something lovely, then build something useful.</sub>
 </p>
 
 <!-- profile-readme: luomo66ccff -->
