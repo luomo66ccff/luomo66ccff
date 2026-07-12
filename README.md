@@ -30,21 +30,7 @@ status      building, watching, exploring
 <br clear="right" />
 
 <p align="center">
-  <img src="./assets/sections/interests.svg" width="100%" alt="Track one: anime signals" />
-</p>
-
-<p align="center">
-  <a href="https://bocchi.rocks/tv/"><img src="./assets/frequencies/signal-01.jpg" width="49%" alt="Favorite visual frequency 01" /></a>
-  <a href="https://www.cho-kaguyahime.com/"><img src="./assets/frequencies/signal-02.jpg" width="49%" alt="Favorite visual frequency 02" /></a>
-</p>
-
-<p align="center">
-  <a href="https://hsr.hoyoverse.com/"><img src="./assets/frequencies/signal-03.png" width="49%" alt="Favorite visual frequency 03" /></a>
-  <a href="https://genshin.hoyoverse.com/"><img src="./assets/frequencies/signal-04.jpg" width="49%" alt="Favorite visual frequency 04" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/sections/projects.svg" width="100%" alt="Track two: featured builds" />
+  <img src="./assets/sections/projects.svg" width="100%" alt="Track one: featured builds" />
 </p>
 
 <p align="center">
@@ -73,7 +59,7 @@ status      building, watching, exploring
 </details>
 
 <p align="center">
-  <img src="./assets/sections/stats.svg" width="100%" alt="Track three: development signals" />
+  <img src="./assets/sections/stats.svg" width="100%" alt="Track two: development signals" />
 </p>
 
 <p align="center">
@@ -82,7 +68,7 @@ status      building, watching, exploring
 </p>
 
 <p align="center">
-  <img src="./assets/sections/activity.svg" width="100%" alt="Track four: contribution loop" />
+  <img src="./assets/sections/activity.svg" width="100%" alt="Track three: contribution loop" />
 </p>
 
 <picture>
