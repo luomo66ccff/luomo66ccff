@@ -1,0 +1,15 @@
+{
+  "name": "luomo-profile-design",
+  "private": true,
+  "type": "module",
+  "description": "Build pipeline for the static SVG assets of the luomo66ccff profile README.",
+  "scripts": {
+    "fonts": "node fetch-fonts.mjs",
+    "build": "node build.mjs",
+    "preview": "node preview.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.56.1",
+    "subset-font": "2.4.0"
+  }
+}

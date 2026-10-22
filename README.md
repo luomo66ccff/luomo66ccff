@@ -1,97 +1,75 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Luomo - anime, code, music, and starlit worlds" />
+  <img src="./assets/hero.svg" width="100%" alt="Luomo — a quiet builder of small, lasting things. 洛墨 · 天染 · 依然" />
 </p>
 
 <p align="center">
-  <a href="https://luomo.moe"><img src="https://img.shields.io/badge/HOME-luomo.moe-72c7b7?style=for-the-badge&labelColor=29343d" alt="Website" /></a>
-  <a href="https://www.march7th.cn"><img src="https://img.shields.io/badge/BLOG-march7th.cn-f29ab7?style=for-the-badge&labelColor=29343d" alt="Blog" /></a>
-  <a href="https://status.luomo.moe"><img src="https://img.shields.io/badge/STATUS-ONLINE-f7d774?style=for-the-badge&labelColor=29343d" alt="Status" /></a>
-  <a href="https://x.com/luomo712"><img src="https://img.shields.io/badge/X-@luomo712-f7fbf9?style=for-the-badge&labelColor=29343d" alt="X @luomo712" /></a>
-</p>
-
-<img align="right" width="184" src="https://avatars.githubusercontent.com/u/105687384?v=4" alt="Luomo's anime avatar" />
-
-### PLAYER 01 // LUOMO
-
-> **Ciallo~ Welcome to my little universe.**
-
-I build self-hosted tools somewhere between cloud servers, anime playlists, virtual companions, and a Steam library that keeps growing.
-
-写一点代码，养几台服务器，也认真追番和打游戏。喜欢音乐、星空与充满生命力的二次元世界，也喜欢把脑海里的小东西慢慢打磨成真正会长期使用的产品。
-
-```text
-class       self-hosted builder
-main party  Python / FastAPI / TypeScript / Next.js
-signal      anime / music / open worlds / space fantasy
-mood        moonlight / star trails / live music / open fields
-status      building, watching, exploring
-```
-
-<br clear="right" />
-
-<p align="center">
-  <img src="./assets/sections/projects.svg" width="100%" alt="Track one: featured builds" />
+  <img src="./assets/dialogue.svg" width="100%" alt="洛墨：深夜的键盘前，有人一边追番，一边照看着几台服务器。把脑海里亮晶晶的念头，慢慢打磨成每天都会用的小工具。这位旅人究竟是谁呢？——没错，就是我。" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/luomo66ccff/luomo-home"><img src="./assets/projects/home.svg" width="49%" alt="Luomo Home" /></a>
-  <a href="https://github.com/luomo66ccff/luomocore"><img src="./assets/projects/core.svg" width="49%" alt="LuomoCore" /></a>
+  <a href="https://luomo.moe"><img src="./assets/choice-1.svg" width="100%" alt="推开主页的门 — luomo.moe" /></a>
+  <a href="https://www.march7th.cn"><img src="./assets/choice-2.svg" width="100%" alt="翻开旅行日记 — march7th.cn" /></a>
+  <a href="https://status.luomo.moe"><img src="./assets/choice-3.svg" width="100%" alt="确认列车运行状态 — status.luomo.moe" /></a>
+  <a href="https://x.com/luomo712"><img src="./assets/choice-4.svg" width="100%" alt="寄一封信到 X — @luomo712" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/chapter-1.svg" width="100%" alt="Chapter I — 旅途手记 · Travelogue" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/luomo66ccff/luomoapi-hub"><img src="./assets/projects/api.svg" width="49%" alt="LuomoAPI Hub" /></a>
-  <a href="https://github.com/luomo66ccff/luomofile-hub"><img src="./assets/projects/file.svg" width="49%" alt="LuomoFile Hub" /></a>
+  <a href="https://github.com/luomo66ccff/Amahane-Hikari-Live2D"><img src="./assets/projects/amahane-hikari-live2d.svg" width="100%" alt="No. I · Amahane Hikari — AI-led Live2D creation with OpenAI Codex" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/luomo66ccff/luomoterminal"><img src="./assets/projects/terminal.svg" width="49%" alt="LuomoTerminal" /></a>
-  <a href="https://github.com/luomo66ccff/file-download-proxy"><img src="./assets/projects/proxy.svg" width="49%" alt="File Download Proxy" /></a>
+  <a href="https://github.com/luomo66ccff/luomo-home"><img src="./assets/projects/luomo-home.svg" width="49%" alt="No. II · Luomo Home — a dreamy cloud gateway" /></a>
+  <a href="https://github.com/luomo66ccff/luomocore"><img src="./assets/projects/luomocore.svg" width="49%" alt="No. III · LuomoCore — personal cloud operations cockpit" /></a>
+  <a href="https://github.com/luomo66ccff/luomoapi-hub"><img src="./assets/projects/luomoapi-hub.svg" width="49%" alt="No. IV · LuomoAPI Hub — self-hosted API catalog and gateway" /></a>
+  <a href="https://github.com/luomo66ccff/luomofile-hub"><img src="./assets/projects/luomofile-hub.svg" width="49%" alt="No. V · LuomoFile Hub — private-first file hub" /></a>
+  <a href="https://github.com/luomo66ccff/luomoterminal"><img src="./assets/projects/luomoterminal.svg" width="49%" alt="No. VI · LuomoTerminal — browser operations bridge" /></a>
+  <a href="https://github.com/luomo66ccff/fog-harbor-archive"><img src="./assets/projects/fog-harbor-archive.svg" width="49%" alt="No. VII · Fog Harbor Archive — an immersive mystery game" /></a>
 </p>
 
 <details>
-  <summary><strong>More things in the workshop</strong></summary>
+  <summary><b>更多手记 · More from the workshop</b></summary>
   <br />
 
-  - [steam-automation-hub](https://github.com/luomo66ccff/steam-automation-hub): read-only ArchiSteamFarm telemetry and automation health.
-  - [rogue-snake-server](https://github.com/luomo66ccff/rogue-snake-server): a small standard-library backend for sessions, scores, and leaderboards.
-  - [hexo](https://github.com/luomo66ccff/hexo): notes, experiments, and longer stories from the blog.
-  - [firefly](https://github.com/luomo66ccff/firefly): an older character-themed web project kept as part of the journey.
+  - [file-download-proxy](https://github.com/luomo66ccff/file-download-proxy) — whitelist-only FastAPI streaming download proxy with Range support and SSRF defenses.
+  - [steam-automation-hub](https://github.com/luomo66ccff/steam-automation-hub) — read-only dashboard for ArchiSteamFarm telemetry and automation health.
+  - [astrbot_plugin_bilibili_assistant](https://github.com/luomo66ccff/astrbot_plugin_bilibili_assistant) — AstrBot plugin for Bilibili comments, AI-assisted reply drafts and moderation.
+  - [rogue-snake-server](https://github.com/luomo66ccff/rogue-snake-server) — a small standard-library backend for sessions, scores and leaderboards.
+  - [hexo](https://github.com/luomo66ccff/hexo) — the blog behind [march7th.cn](https://www.march7th.cn): notes, experiments and longer stories.
+  - [firefly](https://github.com/luomo66ccff/firefly) — an early character site for Firefly, kept as part of the journey.
 </details>
 
+<br />
+
 <p align="center">
-  <img src="./assets/sections/stats.svg" width="100%" alt="Track two: development signals" />
+  <img src="./assets/chapter-2.svg" width="100%" alt="Chapter II — 开拓记录 · Trailblaze Record" />
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Luomo GitHub statistics" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Luomo skill inventory" />
+  <img src="./assets/trailblaze.svg" width="100%" alt="Trailblaze Record — GitHub stars, commits, pull requests, issues, repositories, followers and top languages" />
 </p>
 
 <p align="center">
-  <img src="./assets/sections/activity.svg" width="100%" alt="Track three: contribution loop" />
+  <img src="./assets/garage.svg" width="100%" alt="Garage — Python, TypeScript, FastAPI, Next.js, Docker, Linux, Cloudflare, Nginx" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/contribution-snake.svg" />
-  <img src="./assets/contribution-snake.svg" width="100%" alt="Luomo contribution animation" />
-</picture>
-
-### INVENTORY // TOOLKIT
+<br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="./assets/chapter-3.svg" width="100%" alt="Chapter III — 圆环之理 · Law of Cycles" />
 </p>
 
 <p align="center">
-  <sub>Today's signal: watch something lovely, then build something useful.</sub>
+  <img src="./assets/cycles.svg" width="100%" alt="A snake travels the contribution calendar" />
 </p>
 
-<!-- profile-readme: luomo66ccff -->
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="愿此行，终抵群星。May this journey lead us starward." />
+</p>
+
+<!-- profile-readme: luomo66ccff · assets are built from design/ (static) and scripts/render-dynamic.mjs (daily) -->
